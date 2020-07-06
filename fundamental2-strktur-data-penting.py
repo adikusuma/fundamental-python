@@ -8,6 +8,7 @@ anak4 = 'joko'
 print(anak1)
 print(anak2)
 print('-' * 20)
+
 #List
 anak_list = ['Adi', 'ida', 'Kusuma', 'mawar']
 
@@ -32,3 +33,5 @@ print(buah)
 print(buah.sort(reverse=False))
 
 print(buah)
+
+#Dictionary
